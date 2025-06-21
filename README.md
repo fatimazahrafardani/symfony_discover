@@ -7,8 +7,7 @@ A small web‑app built with **Symfony 7**
 ---
 
 ## 🗂️ Resources
-
-1.
+1.  https://youtu.be/PMERdlfL6LE?feature=shared
 
 
 ## 🚀 Quick Start
