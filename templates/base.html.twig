@@ -12,6 +12,14 @@
         {% endblock %}
     </head>
     <body>
+    <nav>
+
+        <a class="nav link {{ app.request.attributes.get('_route') == 'app_home' ? 'active' : '' }}" href="{{ path('app_home') }}">Home</a>
+        <a href="{{path('app_product', {'slug':'slug','id': 5})}}">product</a>
+    </nav>
+      <div class="content">
         {% block body %}{% endblock %}
+    </div>
+       
     </body>
 </html>
