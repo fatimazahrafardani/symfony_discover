@@ -1,4 +1,4 @@
-# 📦 My Symfony Project
+# 📦 My Symfony learning project
 
 A small web‑app built with **Symfony 7** 
 
